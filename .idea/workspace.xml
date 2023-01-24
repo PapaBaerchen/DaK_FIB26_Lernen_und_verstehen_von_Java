@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d33bef1-db84-4899-9a11-0038348a8797" name="Changes" comment="alles neu">
-      <change afterPath="$PROJECT_DIR$/src/Switch_case_Blöcke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Do_while_schleife.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/If_Abfragen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Abfragen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/While_Schleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/While_Schleife.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.If_Abfragen">
+  <component name="RunManager" selected="Application.Do_while_schleife">
+    <configuration name="Do_while_schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Do_while_schleife" />
+      <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="If_Abfragen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="If_Abfragen" />
       <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
@@ -57,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="While_Schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_Schleife" />
+      <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="einfache_rechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="einfache_rechnung" />
       <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
@@ -66,6 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Do_while_schleife" />
+        <item itemvalue="Application.While_Schleife" />
         <item itemvalue="Application.If_Abfragen" />
         <item itemvalue="Application.Modulo_Operator" />
         <item itemvalue="Application.einfache_rechnung" />
@@ -123,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674556996232</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="alles neu">
+      <created>1674565525999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674565525999</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
