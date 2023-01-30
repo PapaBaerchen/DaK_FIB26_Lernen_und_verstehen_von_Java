@@ -1,8 +1,12 @@
+import java.util.Scanner;
 public class Switch_case_Blöcke {
 
     public static void main (String[] args){
 
-        int month = 7;
+        int month;
+        Scanner tastatur = new Scanner(System.in);
+        System.out.println("Bitte nennen Sie Ihren Geburtsmonat in Ziffern 1-12: ");
+        month = tastatur.nextInt();
         // int kann auch durch String month = Juli als Konstante ersetzt werden, dem entsprechend muss aber case angepasst werden: case Januar, case Februar, usw. ...
 
         switch (month ){ //schalter Prüfe bedingung mit dem festgelegten Wert (Konstante) "int month"
@@ -22,6 +26,6 @@ public class Switch_case_Blöcke {
             // ersetzt durch "default" alle "Konstanten" die nicht den "case"s entsprechen und gibt eine eingegebene Antwort aus
         }
 
-
+        tastatur.close();
     }
 }
