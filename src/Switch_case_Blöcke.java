@@ -22,6 +22,8 @@ public class Switch_case_Blöcke {
             case 12: System.out.println("Dezember");break;
             default: System.out.println("Überprüfen Sie Ihre Eingabe! Monat entspricht nicht dem Kalender");
             // ersetzt durch "default" alle "Konstanten" die nicht den "case"s entsprechen und gibt eine eingegebene Antwort aus
+
+                System.out.println(month);
         }
 
 
