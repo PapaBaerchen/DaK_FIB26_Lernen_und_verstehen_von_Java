@@ -24,7 +24,6 @@ public class scanner_anwendung {
 
         System.out.println("umfang = " + umfang +" cm");
         System.out.println("Fläche = " + flaeche + " cm");
-        );
 
         keyboard.close();
     }
