@@ -1,14 +1,10 @@
-import java.util.Scanner;
+
 
 public class Do_while_schleife {
     public static void main(String[] args){
         //deklaration des wert auf int
         int num = 0;
         //integration des Scanners
-
-        Scanner tastatur = new Scanner(System.in);
-
-        num = tastatur.nextInt(num);
 
 
 
@@ -18,11 +14,7 @@ public class Do_while_schleife {
             num ++;
         }
         while(num <=5 ); //auch wenn die Bedingung nicht erfüllt ist, wird der Wert "int num = 6" dennoch einmal ausgegeben
-
-        System.out.println("Prüfwert der Ausgabebedinung: "+num );
-        tastatur.close();
-
-             // int num2= 6;
+        // int num2= 6;
                  //kopfgesteuerte Schleife
                 //while(num <=5){                // ist immer an den Ausdruck in der Klammer gebunden
                 //  System.out.println(num);    //gibt den Wert aus
