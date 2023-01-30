@@ -2,10 +2,13 @@ import java.util.Scanner;
 
 public class Do_while_schleife {
     public static void main(String[] args){
-        import java.util.Scanner;
-        Scanner tastatur = new Scanner();
 
-        int num = 6;
+        int num;
+
+        import java.util.Scanner;
+        Scanner tastatur = new Scanner(num);
+
+
 
 
         //Fußgesteuerte Schleife --> wird erst am Ende der Bedingung geprüft und daher die Schleife bereits einmal ausgeführt
