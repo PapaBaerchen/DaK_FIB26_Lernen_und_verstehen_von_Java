@@ -42,16 +42,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.verschachtelte_schleifen">
+  <component name="RunManager" selected="Application.scanner_anwendung">
     <configuration name="Do_while_schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Do_while_schleife" />
-      <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="If_Abfragen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Abfragen" />
       <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="scanner_anwendung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner_anwendung" />
+      <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="verschachtelte_schleifen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="verschachtelte_schleifen" />
       <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.scanner_anwendung" />
         <item itemvalue="Application.verschachtelte_schleifen" />
         <item itemvalue="Application.for_schleife" />
         <item itemvalue="Application.Do_while_schleife" />
         <item itemvalue="Application.While_Schleife" />
-        <item itemvalue="Application.If_Abfragen" />
       </list>
     </recent_temporary>
   </component>
