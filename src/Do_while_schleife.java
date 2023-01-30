@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Do_while_schleife {
     public static void main(String[] args){
         import java.util.Scanner;
-        Scanner tastatur = new Scanner()
+        Scanner tastatur = new Scanner();
 
         int num = 6;
 

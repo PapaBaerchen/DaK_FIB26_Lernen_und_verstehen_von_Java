@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d33bef1-db84-4899-9a11-0038348a8797" name="Changes" comment="alles neu">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/for_schleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for_schleife.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Do_while_schleife">
+  <component name="RunManager" selected="Application.for_schleife">
     <configuration name="Do_while_schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Do_while_schleife" />
       <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="einfache_rechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="einfache_rechnung" />
+    <configuration name="for_schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_schleife" />
       <module name="DaK_FIB26_Lernen_und_verstehen_von_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.for_schleife" />
         <item itemvalue="Application.Do_while_schleife" />
         <item itemvalue="Application.While_Schleife" />
         <item itemvalue="Application.If_Abfragen" />
         <item itemvalue="Application.Modulo_Operator" />
-        <item itemvalue="Application.einfache_rechnung" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674835429850</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="alles neu">
+      <created>1675085275527</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675085275527</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

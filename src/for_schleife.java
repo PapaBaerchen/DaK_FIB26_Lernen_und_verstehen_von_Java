@@ -3,13 +3,20 @@ public class for_schleife {
 
     static public void main(String[] args){
         //findet anwendung, wenn man schon ganz genau weiß, wie oft die Schleife durchlaufen werden soll
-    Scanner Tastatur = new Scanner(System.in);
 
+        //Variablen deklarieren
+        int num;
+        // scnanner festlegen
+        Scanner keyboard = new Scanner(System.in);
+        // Eingabe
+        System.out.println("Bitte geben Sie den Prüfwert für die Schleifenfunktion ein: ");
+        num = keyboard.nextInt();
         for
-        (int i=0; //wert in der Variable wird gesetzt
-        i<10;
-        i++) {
-            System.out.println(i);
+        (int i = num; //wert in der Variable wird gesetzt
+        num<10;
+        num++) {
+            System.out.println(num);
+            keyboard.close();
         }
     }
 
