@@ -3,7 +3,7 @@ public class Switch_case_Blöcke {
 
     public static void main (String[] args){
 
-        int month;
+        int month = 5;
 
         // int kann auch durch String month = Juli als Konstante ersetzt werden, dem entsprechend muss aber case angepasst werden: case Januar, case Februar, usw. ...
 
