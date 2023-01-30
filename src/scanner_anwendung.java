@@ -19,8 +19,8 @@ public class scanner_anwendung {
         sideB = keyboard.nextDouble();
 
         // Verarbeitung nach EVA
-        umfang = 2*sideA + 2*sideB;
-        flaeche = sideA*sideB;
+        umfang = (2* sideA) + (2 *sideB);
+        flaeche = sideA * sideB;
 
         System.out.println("umfang = " + umfang +" cm");
         System.out.println("Fläche = " + flaeche + " cm");
