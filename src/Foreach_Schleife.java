@@ -16,7 +16,8 @@ public class Foreach_Schleife {
         System.out.println(names[1]);
         */
 
-            String [] names ={"David", "Frank" , "MO" , "Sebastian" , "Marcel" };
+            String [] names ={"David", "Frank" , "MO" , "Sebastian" , "Marcel" }; // in dieser Schreibweise muss die größe nicht definiert werden
+            // (new String [Ziffer der verwendbaren Ausgaben] <-- entfällt durch {Text}, anzahl der eingetragenen "Objekte" addiert Java selbst
 
             for (int i = 0; i < names.length; i++) {
                 System.out.println(names[i]);
