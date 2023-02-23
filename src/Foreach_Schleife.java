@@ -24,6 +24,10 @@ public class Foreach_Schleife {
 
             }
 
+            for(String name : names) {
+                System.out.println(name);
+            }
+
         }
     }
 }
