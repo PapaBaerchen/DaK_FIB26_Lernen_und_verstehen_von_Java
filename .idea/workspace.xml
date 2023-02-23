@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d33bef1-db84-4899-9a11-0038348a8797" name="Changes" comment="alles neu">
-      <change afterPath="$PROJECT_DIR$/src/mehrdimensionalle_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Foreach_Schleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foreach_Schleife.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d33bef1-db84-4899-9a11-0038348a8797" name="Changes" comment="alles neu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,7 +282,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677163869397</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="alles neu">
+      <created>1677167471828</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1677167471828</updated>
+    </task>
+    <task id="LOCAL-00029" summary="alles neu">
+      <created>1677167543603</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1677167543603</updated>
+    </task>
+    <task id="LOCAL-00030" summary="alles neu">
+      <created>1677167765301</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677167765301</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

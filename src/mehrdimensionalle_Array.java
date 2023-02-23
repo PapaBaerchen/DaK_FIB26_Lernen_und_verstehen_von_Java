@@ -33,6 +33,7 @@ public class mehrdimensionalle_Array {
             for(int k =0; k < ForNameSureName[i].length; k++) {
                 System.out.print(ForNameSureName[i][k]+ " ");
             }
+            System.out.println();
         }
 
 
